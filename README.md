@@ -1,4 +1,4 @@
-# ext4fsd_instructions
+# Ext4Fsd Instructions
 Simple instructions on how to access a Linux filesystem through Windows
 
 ## Intro:
@@ -13,3 +13,10 @@ While searching for information on how to setup the latest version of the EXT4 f
 6. In the main pane, navigate to your EXT formatted drive, right click and assign/change drive letter if necessary. After this the drive should appear in File Explorer.
 
 I will include a copy of the latest installer in this repository for archival reasons.
+
+
+Credit to Bo Brantén
+https://github.com/bobranten/ on Github
+
+Original Repo:
+https://github.com/bobranten/Ext4Fsd
